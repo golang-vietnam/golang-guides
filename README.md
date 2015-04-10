@@ -14,10 +14,10 @@ Ever been **frustrated finding information on outdated one-off blog posts and tu
 
 ## Contributors
 
-These guides were originally created and adapted by [tieubao](http://github.com/tieubao) 
+These guides were originally created and adapted by [Han Ngo](http://github.com/tieubao) 
 as a part of our [Golang Vietnam Community](http://golangvietnam.herokuapp.org). We have also had contributions from many community members including:
 
- * [tieubao](https://github.com/tieubao)
+ * [Han Ngo](https://github.com/tieubao)
  * You?
  
 If you are interested in contributing, check out our [contribution guidelines](https://github.com/golang-vietnam/golang-guides/wiki/Contributing-Guidelines) for this project.
