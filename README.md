@@ -12,3 +12,12 @@ We have guides for everyone whether you are **beginner, intermediate or advanced
 
 Ever been **frustrated finding information on outdated one-off blog posts and tutorials** that has since become irrelevant? How many times were you googling only to find your answer only on a **2 year old StackOverflow post**? We believe there's got to be a better way. Why not have the community work together to create useful and detailed documentation for every aspect of Go (or any platform)? There's absolutely no reason that we should have to make do with outdated, vague or un-editable content anymore.
 
+## Contributors
+
+These guides were originally created and adapted by [tieubao](http://github.com/tieubao) 
+as a part of our [Golang Vietnam Community](http://golangvietnam.herokuapp.org). We have also had contributions from many community members including:
+
+ * [tieubao](https://github.com/tieubao)
+ * You?
+ 
+If you are interested in contributing, check out our [contribution guidelines](https://github.com/golang-vietnam/golang-guides/wiki/Contributing-Guidelines) for this project.
