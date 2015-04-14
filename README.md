@@ -1,3 +1,5 @@
+[![](http://golangvietnam.herokuapp.com/badge.svg)](http://golangvietnam.herokuapp.com "Golang Vietnam on Slack")
+
 # Golang Guides
 
 Welcome to the open-source Golang Guides. Our goal is to become the **central crowdsourced resource** for complete and up-to-date Golang content and tutorials. [Just take me to the notes](https://github.com/golang-vietnam/golang-guides/wiki)!
